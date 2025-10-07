@@ -1,0 +1,20 @@
+ID,Producer,Model,Purchase Date,Price,Range,Max Speed,Description,Type
+A1,A,M1,1.5.2024.,50000,,,example 1,car
+B1,B,BM1,,3000,100,,,bike
+T1,T,TM1,,1000,,50,,scooter
+A2,A,M2,16.5.2024.,35000,,,example 2,car
+B2,B,BM2,,2500,75,,,bike
+T2,T,TM2,,500,,30,,scooter
+A3,A,M3,9.5.2024.,75000,,,example 3,car
+B3,B,BM3,,2700,110,,,bike
+B4,B,BM4,,2700,110,,,bike
+B5,B,BM5,,2700,110,,,bike
+T2,T,TM2,,500,,30,,scooter
+T3,T,TM2,,500,,30,,scooter
+T4,T,TM2,,500,,30,,scooter
+T5,T,TM2,,500,,30,,scooter
+T6,T,TM2,,500,,30,,scooter
+T7,T,TM3,,800,,60,,scooter
+T8,T,TM2,,500,,30,,scooter
+T9,T,TM2,,500,,30,,scooter
+T10,T,TM3,,800,,60,,scooter

@@ -1,0 +1,27 @@
+======================================================
+              e-mobility company ePJ2
+                     Java City
+------------------------------------------------------
+			  INVOICE
+User: K2
+------------------------------------------------------
+Rented vehicle: Bike BM1,B1
+Start location: (2,1)
+Destination: (7,13)
+City zone: wide city area
+Ride duration [s]: 4.0
+------------------------------------------------------
+Base price: 15.0 * 4.0 = 0.0
+Rate for wide area of the city: 1.5
+Amount: 0.0 EUR
+Promotion: 10.0% (0.0 EUR)
+------------------------------------------------------
+Total price: 0.0 EUR
+Date and time: 01.06.2024/09-00
+Invoice number: 1
+------------------------------------------------------
+Fault: Wheel has fallen off the vehicle
+We apologize for the inconvenience. 
+======================================================
+           *THANK YOU FOR USING OUR SERVICE*
+------------------------------------------------------
