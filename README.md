@@ -138,3 +138,7 @@ The examples below show two types of generated invoices:
     - Simulate vehicle movements on the city map  
     - Generate receipts after each rental  
     - Produce structured and organized reports 
+
+## Acknowledgements / Inspired by
+
+This project was implemented for educational purposes as part of a Programming Languages 2 course (Java).
